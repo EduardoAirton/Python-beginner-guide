@@ -4,7 +4,7 @@ A List of Python Commands to help you when you're doing that new project and don
 
 ## Getting Started
 
-Just Dowload the content and open in you IDE of choice.
+Just Dowload the content and open in you IDE of choice or click on informacoes.py.
 
 ## Contributing
 Feel free to send any update 
