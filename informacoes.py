@@ -95,9 +95,9 @@ evens = filter(even_bool, myList)
 print(list(evens)) # Aprensetar todos os numeros pares da lista
 
 # LAMBDA
-
+# É uma função anonima, ou seja sem nome.
 evens = filter(lambda num: num%2 == 0, myList)
-print(list(evens))
+print(list(evens))# Aprensetar todos os numeros pares da lista
 
 #---------------------------------------------------------------------------------------
 # CLASS
