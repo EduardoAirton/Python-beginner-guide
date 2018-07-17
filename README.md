@@ -4,7 +4,7 @@ A List of Python Commands to help you when you're doing that new project and don
 
 ## Getting Started
 
-Just Dowload the content and open in you IDE of choice or click on informacoes.py.
+Just Dowload the content and open in you IDE of choice or click on informacoes.py. To compile python programs you need to install [Python](https://www.python.org/downloads/), always download the lasted version, then it's better if you download [anaconda](https://conda.io/miniconda.html) to use it's prompt. 
 
 ## Contributing
 Feel free to send any update 
