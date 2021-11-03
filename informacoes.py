@@ -3,7 +3,7 @@
 myString = "abcdefg"
 
 # Slicing
-print(myString[2:]) # Printa todos as letras aparti do indice 2 "CDEFG"
+print(myString[2:]) # Printa todos as letras a partir do indice 2 "CDEFG"
 print(myString[::2]) # Printa todos pulando de dois em dois "ACEG"
 print(myString[::-1]) # Printar os elementos ao contrario
 
